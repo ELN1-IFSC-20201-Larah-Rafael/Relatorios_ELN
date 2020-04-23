@@ -51,21 +51,21 @@ Vsat= -11.3V correspondendo a 94% do valor de tensão de alimentação do ampop 
 ## Amplificador Não-Inversor
 Circuito Simulado
 
-![Esquemático Não-Inversor]()
+![Esquemático Não-Inversor](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Esquematico_NaoInversor.png)
 
 Resultado da simulação
 
 Utilizando modelo LM324N
 
-![Simulação LM324N]()
+![Simulação LM324N](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_naoInversor_LM324N.png)
 
 Utilizando modelo TL082
 
-![Simulação TL082]()
+![Simulação TL082](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_naoInversor_TL082.png)
 
-![Saturação TL082]()
+![Saturação TL082](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Saturacao_naoInv_TL082.png)
 
-A saturação Negativa ocorreu em Vin = +/- 1.15V 
+A saturação ocorreu em Vin = +/- 1.15V 
 
 Vsat = +/- 10.4V correspondendo a 87% do valor de tensão de alimentação do ampop (Vcc+)
 
@@ -73,19 +73,19 @@ Vsat = +/- 10.4V correspondendo a 87% do valor de tensão de alimentação do am
 
 Circuito Simulado
 
-![Esquemático Subtrator]()
+![Esquemático Subtrator](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Esquematico_Subtrator.png)
 
 Resultado da simulação
 
 Utilizando modelo LM324N
 
-![Simulação LM324N]()
+![Simulação LM324N](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_Subtrator_LM324N.png)
 
 Vin = 12V e Vout = 130mV
 
 
 Utilizando modelo TL082
 
-![Simulação TL082]()
+![Simulação TL082](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_Subtrator_TL082.png)
 
 Vin = 12V e Vout = 95mV
