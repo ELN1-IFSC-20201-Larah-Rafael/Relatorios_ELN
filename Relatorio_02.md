@@ -1,4 +1,4 @@
-# Roteiro_02
+# Relatório_02
 
 ## Circuito Retificador de Meia Onda
 
