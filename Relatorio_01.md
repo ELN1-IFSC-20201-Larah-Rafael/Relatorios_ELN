@@ -21,7 +21,7 @@ Utilizando modelo TL082
 ***
 ## Amplificador Inversor
 
-Circuito Simulado
+Circuito Simulado:
 
 ![Esquemático Inversor](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Esquematico_Inversor.png)
 
@@ -39,31 +39,53 @@ Utilizando modelo TL082
 
 A saturação positiva ocorreu em Vin = 1.1V 
 
-Vout= 10,7V correspondendo a 89% do valor de tensão de alimentação do ampop (Vcc+)
+Vsat= 10,7V correspondendo a 89% do valor de tensão de alimentação do ampop (Vcc+)
 
 ![Saturação Negativa](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/SatNegativa_Inv_LM324.png)
 
 A saturação Negativa ocorreu em Vin = -1.15V 
 
-Vout= -11,3V correspondendo a 94% do valor de tensão de alimentação do ampop (Vcc-)
-
-
-
-
-
-
+Vsat= -11.3V correspondendo a 94% do valor de tensão de alimentação do ampop (Vcc-)
 
 ***
 ## Amplificador Não-Inversor
 Circuito Simulado
-![]()
+
+![Esquemático Não-Inversor]()
 
 Resultado da simulação
-![]()
+
+Utilizando modelo LM324N
+
+![Simulação LM324N]()
+
+Utilizando modelo TL082
+
+![Simulação TL082]()
+
+![Saturação TL082]()
+
+A saturação Negativa ocorreu em Vin = +/- 1.15V 
+
+Vsat = +/- 10.4V correspondendo a 87% do valor de tensão de alimentação do ampop (Vcc+)
 
 ## Amplificador Subtrator
+
 Circuito Simulado
-![]()
+
+![Esquemático Subtrator]()
 
 Resultado da simulação
-![]()
+
+Utilizando modelo LM324N
+
+![Simulação LM324N]()
+
+Vin = 12V e Vout = 130mV
+
+
+Utilizando modelo TL082
+
+![Simulação TL082]()
+
+Vin = 12V e Vout = 95mV
