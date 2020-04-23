@@ -10,11 +10,11 @@ Resultado da simulação:
 
 Utilizando modelo LM324N
 
-![Simulação LM324N]()
+![Simulação LM324N](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_Buffer_LM324N.png)
 
 Utilizando modelo TL082
 
-![Simulação TL082]()
+![Simulação TL082](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_Buffer_TL082.png)
 
 
 "Discutir resultado" 
@@ -23,25 +23,25 @@ Utilizando modelo TL082
 
 Circuito Simulado
 
-![Esquemático Inversor]()
+![Esquemático Inversor](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Esquematico_Inversor.png)
 
 Resultado da simulação:
 
 Utilizando modelo LM324N
 
-![Simulação LM324N]()
+![Simulação LM324N](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_Inversorr_LM324N.png)
 
 Utilizando modelo TL082
 
-![Simulação TL082]()
+![Simulação TL082](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/Simulacao_Inversorr_TL082.png)
 
-![Saturação Positiva]()
+![Saturação Positiva](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/SatPositiva_Inv_LM324.png)
 
 A saturação positiva ocorreu em Vin = 1.1V 
 
 Vout= 10,7V correspondendo a 89% do valor de tensão de alimentação do ampop (Vcc+)
 
-![Saturação Negativa]()
+![Saturação Negativa](https://github.com/ELN1-IFSC-20201-Larah-Rafael/Relatorios_ELN/blob/master/img/SatNegativa_Inv_LM324.png)
 
 A saturação Negativa ocorreu em Vin = -1.15V 
 
